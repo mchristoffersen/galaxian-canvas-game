@@ -1,3 +1,6 @@
+This is a modification to the below galaxian-canvas-game, now the controlled character is at the top and is the MRO, and the enemies are layered ice deposits.
+
+
 Title: galaxian-canvas-game<br>
 Author: Steven Lambert<br>
 Website: http://blog.sklambert.com/galaxian-html5-game/<br>
